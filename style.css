@@ -27,7 +27,7 @@ header{
     align-items: center;
     padding-left: 40px;
     padding-right: 40px;
-    background-color: #0474D9;
+    background-color: #095394;
     position: fixed;
     box-shadow: 0px 3px 25px 10px rgba(0, 0, 0, 0.6);
 }
@@ -70,9 +70,7 @@ header{
     transition: .5s;
 }
 .headerInfo a:hover{
-    background-color: #CCD930;
-    color: black;
-    font-size: 20px;
+    background-color: #01948B;
 }
 
 
@@ -91,8 +89,8 @@ header{
 }
 .studentAreaButton:hover{
     cursor: pointer;
-    background-color: #CCD930;
-    color: black;
+    background-color: #01948B;
+    color: white;
     font-size: 17px;
 }
 
@@ -127,7 +125,7 @@ main{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #0474D9;
+    background-color: #095394;
 }
 
 main h1{
@@ -152,10 +150,11 @@ main p{
     flex-direction: column;
     margin-top: 40px;
     border-radius: 30px;
-    margin: 25px;
+    margin: 75px;
     padding: 20px;
     text-align: center;
-    background-color: #CCD930;
+    background-color: #01948B;
+    color: white;
     box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.3);
 }
 
@@ -167,10 +166,11 @@ main p{
     flex-direction: column;
     margin-top: 40px;
     border-radius: 30px;
-    margin: 25px;
+    margin: 75px;
     padding: 20px;
     text-align: center;
-    background-color: #CCD930;
+    background-color: #01948B;
+    color: white;
     box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.3);
 }
 
@@ -214,10 +214,11 @@ main p{
     flex-direction: column;
     margin-top: 40px;
     border-radius: 30px;
-    margin: 25px;
+    margin: 75px;
     padding: 20px;
     text-align: center;
-    background-color: #CCD930;
+    background-color: #01948B;
+    color: white;
     box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.3);
 }
 
@@ -241,10 +242,12 @@ main p{
     flex-direction: column;
     margin-top: 40px;
     border-radius: 30px;
-    margin: 25px;
+    margin: 75px;
+    margin-top: 100px; margin-bottom: 100px;
     padding: 20px;
     text-align: center;
-    background-color: #CCD930;
+    background-color: #01948B;
+    color: white;
     box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.3);
 }
 
@@ -263,10 +266,6 @@ main p{
 .hare tr{
     transition: .5s;
     width: 100vw;
-}
-.hare tr:hover{
-    background-color: #0474D9;
-    color: white;
 }
 
 .hare td{
@@ -298,7 +297,7 @@ footer{
     justify-content: center;
     flex-direction: row;
     height: 50px;
-    background-color: #0474D9;
+    background-color: #095394;
     color: white;
 }
 footer img{
@@ -323,8 +322,8 @@ footer a{
     transition: .5s;
 }
 footer a:hover{
-    background-color: #CCD930;
-    color: black;
+    background-color: #01948B;
+    color: white;
     font-size: 17px;
 }
 
