@@ -211,53 +211,6 @@ main p, li{
 .fpooProjeto img{
     width: 500px;
 }
-/*-------------------------------------------------------------------------------------------------------------*/
-
-.lima{
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    margin-top: 40px;
-    border-radius: 30px;
-    margin: 75px;
-    padding: 20px;
-    text-align: center;
-    background-color: #01948B;
-    color: white;
-    box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.3);
-}
-
-.limaTxt{
-    display: flex;
-    flex-direction: row;
-    padding-top: 20px;
-}
-.limaHtml, .limaCss{
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 10px;
-    width: 50%;
-    height: 100%;
-}
-
-.limaProjetos{
-    display: flex;
-    flex-direction: column;
-    padding-top: 40px;
-}
-.limaProjeto{
-    display: flex;
-    flex-direction: row;
-}
-.limaProjetos img{
-    width: 300px;
-    box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.5);
-}
-.limaProjeto1, .limaProjeto2, .limaProjeto3{
-    padding-left: 40px;
-    padding-right: 40px;
-    padding-top: 10px;
-}
 
 /*-------------------------------------------------------------------------------------------------------------*/
 
@@ -344,6 +297,54 @@ main p, li{
 
 .conmponenteTxt{
     width: 100%;
+}
+
+/*-------------------------------------------------------------------------------------------------------------*/
+
+.lima{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 40px;
+    border-radius: 30px;
+    margin: 75px;
+    padding: 20px;
+    text-align: center;
+    background-color: #01948B;
+    color: white;
+    box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.3);
+}
+
+.limaTxt{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+}
+.limaHtml, .limaCss{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+    width: 50%;
+    height: 100%;
+}
+
+.limaProjetos{
+    display: flex;
+    flex-direction: column;
+    padding-top: 40px;
+}
+.limaProjeto{
+    display: flex;
+    flex-direction: row;
+}
+.limaProjetos img{
+    width: 300px;
+    box-shadow: 0px 3px 15px 5px rgba(0, 0, 0, 0.5);
+}
+.limaProjeto1, .limaProjeto2, .limaProjeto3{
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
 }
 
 /*-------------------------------------------------------------------------------------------------------------*/
